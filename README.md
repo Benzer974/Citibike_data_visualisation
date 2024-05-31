@@ -1,22 +1,33 @@
 # Citibike data visualisation
 
-## Contexte 
-Les services de Citibike gèrent pour la ville de New York un service de location de vélos de courte durée.
+## Context 
+Citibike manages a short-term bicycle rental service for New York City.
 
-## Problématique
-Comprendre les caractéristiques d’utilisation des vélos et prévoir si possible le trafic quotidien.
+## Challenge
+Understand bicycle usage patterns and, if possible, forecast daily traffic.
 
-## Données utilisées 
-•	trips2122_202208.xlsx : Données Citibike sur le mois d’août pour la ville de New York
-•	trips_agg_day.xlsx : Données Citibike agrégées par jour de départ (filtre sur le mois d’août et l’année 2022)
-•	trips_agg_hour.xlsx : Données Citibike agrégées par heure de départ (filtre sur le mois d’août et l’année 2022)
+## Data
+- trips2122_202208.xlsx: Citibike data for the month of August for New York City
+- trips_agg_day.xlsx: Citibike data aggregated by departure day (filter for August and 2022)
+- trips_agg_hour.xlsx: Citibike data aggregated by departure time (filtered by August and the year 2022)
 
-Les données fournies étaient déjà transformées et nétoyées.
+The data provided had already been transformed and cleaned.
 
 ## Visualisation
-outil utilisé : tableau desktop
+tool used: desktop table
 
-Afin de répondre à la problématique posée, il a été tout d'abord nécessaire d'établir un profil d'utilisateur
+1. presentation of key figures for the city bike service
+![image](https://github.com/Benzer974/Citibike_data_visualisation/assets/114593265/ace71934-b0e0-4031-9cac-f5d005f6045c)
 
+2. Creation of a user profile 
 ![image](https://github.com/Benzer974/Citibike_data_visualisation/assets/114593265/14e76a15-247d-40ab-881c-891f24c97256)
+
+3. Comparison of weekend and weekday bicycle use
+![image](https://github.com/Benzer974/Citibike_data_visualisation/assets/114593265/77c1bb61-3fc7-48be-b464-9c22739eef50)
+
+4. Representation of typical journeys
+![image](https://github.com/Benzer974/Citibike_data_visualisation/assets/114593265/40cfb687-7abf-4390-b295-90f2e6999110)
+
+5. Geographic visualisation of bike stations
+![image](https://github.com/Benzer974/Citibike_data_visualisation/assets/114593265/6626a5a9-c325-4f01-8aeb-d2349fe595e4)
 
